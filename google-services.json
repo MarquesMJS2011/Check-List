@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611529947567",
+    "project_id": "appcl-f426a",
+    "storage_bucket": "appcl-f426a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611529947567:android:80a7d94f521d3fc297575a",
+        "android_client_info": {
+          "package_name": "com.marques.checklist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8QEbT7hi4mJfCvJpCW-9p-dz5E1maI_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
